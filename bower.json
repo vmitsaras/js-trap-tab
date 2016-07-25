@@ -1,0 +1,19 @@
+{
+  "name": "js-trap-tab",
+  "version": "0.1.0",
+  "main": [
+    "trap-tab.js"
+  ],
+  "authors": [
+    "Vasileios Mitsaras"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
+  "keywords": [
+    "keys",
+    "accessible",
+    "dialog"
+  ],
+  "license": "MIT"
+}

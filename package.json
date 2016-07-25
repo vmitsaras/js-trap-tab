@@ -1,0 +1,16 @@
+{
+  "name": "js-trap-tab",
+  "title": "js-trap-tab",
+  "main": "trap-tab.js",
+  "description": "Accessible Keyboard Traps",
+  "version": "0.1.0",
+  "homepage": "https://github.com/vmitsaras/js-trap-tab",
+  "license": "MIT",
+  "author": {
+    "name": "Vasileios Mitsaras",
+    "twitter": "vmitsaras",
+    "github": "vmitsaras",
+    "email": "github@vasilis.co",
+    "url": "http://vasilis.co"
+  }
+}
