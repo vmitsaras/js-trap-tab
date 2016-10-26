@@ -16,6 +16,9 @@ Based on [accessible-modal-dialog](https://github.com/gdkraus/accessible-modal-d
     trapTabKey.unbindTrap();
 ```
 
+##### Example
+[jQuery accessible Offcanvas plugin](https://github.com/vmitsaras/js-offcanvas/blob/master/src/js-offcanvas.js#L96)
+
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
