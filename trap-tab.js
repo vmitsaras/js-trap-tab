@@ -111,7 +111,7 @@
 	};
 
 	TrapTabKey.prototype.defaults = {
-		focusableElementsString : "['data-focus'], a[href], area[href], input:not([disabled]), select:not([disabled]), textarea:not([disabled]), button:not([disabled]), iframe, object, embed, *[tabindex], *[contenteditable]"
+		focusableElementsString : "a[href], area[href], input:not([disabled]), select:not([disabled]), textarea:not([disabled]), button:not([disabled]), iframe, object, embed, *[tabindex], *[contenteditable]"
 	};
 
 	TrapTabKey.defaults = TrapTabKey.prototype.defaults;
