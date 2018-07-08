@@ -55,10 +55,11 @@
 			opts = self.options;
 
 		// get list of all children elements in given object
-		var o = self.$element.find('*');
+		var o = self.$element.find('*'),
+			focusEl = self.$element.find('[data-focus]');
 
 		// set the focus to the first keyboard focusable item
-		o.filter(opts.focusableElementsString).filter(':visible').first().focus();
+		focusEl.length ? focusEl.first().focus() : o.filter(opts.focusableElementsString).filter(':visible').first().focus();
 
 	};
 

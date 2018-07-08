@@ -3,7 +3,7 @@
   "title": "js-trap-tab",
   "main": "trap-tab.js",
   "description": "Accessible Keyboard Traps",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/vmitsaras/js-trap-tab",
   "license": "MIT",
   "author": {
